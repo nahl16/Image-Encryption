@@ -55,4 +55,3 @@ decryptImage("encrypted.jpg", "my_secret_key");
 - C++ compiler (e.g., g++)
 - Standard C++ libraries
 ```
-
